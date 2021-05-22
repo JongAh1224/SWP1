@@ -1,2 +1,2 @@
-20213074	장종아
+20213074 Jang JongAh
 Kookmin Univ. SW Dept.
