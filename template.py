@@ -1,4 +1,4 @@
-html b"""
+html = b"""
 <html>
     <body>
         <form action="">
@@ -11,4 +11,3 @@ html b"""
     </body>
 </html>
 """
-
